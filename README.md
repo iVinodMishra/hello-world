@@ -1,2 +1,4 @@
 # hello-world
-The first repository 
+The first repository
+
+This is the first repository created by Vinod Mishra, while learning to understand the GitHub and how it works. 
